@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-first-gh-deploy/static/css/main.073c9b0a.css",
+    "main.js": "/react-first-gh-deploy/static/js/main.43d48880.js",
+    "static/js/787.4ba11976.chunk.js": "/react-first-gh-deploy/static/js/787.4ba11976.chunk.js",
+    "index.html": "/react-first-gh-deploy/index.html",
+    "main.073c9b0a.css.map": "/react-first-gh-deploy/static/css/main.073c9b0a.css.map",
+    "main.43d48880.js.map": "/react-first-gh-deploy/static/js/main.43d48880.js.map",
+    "787.4ba11976.chunk.js.map": "/react-first-gh-deploy/static/js/787.4ba11976.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.43d48880.js"
+  ]
+}
